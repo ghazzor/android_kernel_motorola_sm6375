@@ -155,3 +155,4 @@ arch/arm/boot/dts/vendor
 #
 Android.bp
 toolchain/
+AnyKernel3/
